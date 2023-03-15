@@ -1,0 +1,10 @@
+.eachCart {
+  background-color: yellow;
+  border: 1px solid black;
+  border-radius: 10px 10px 10px 10px;
+  padding-left: 20px;
+}
+
+.name {
+  font-weight: bold;
+}
